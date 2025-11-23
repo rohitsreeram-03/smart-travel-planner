@@ -1,2 +1,10 @@
-# smart-travel-planner
-A lightweight travel-planner AI agent that generates personalized itineraries using Google Gemini. Enter your destination, days, style, and interests—get a complete day-by-day plan instantly. Perfect starter project for AI beginners and portfolio showcases.
+# Simple Travel Planner — Gemini
+
+A small example Python project demonstrating a travel-planner AI agent using Google Gemini.
+
+## Installation
+```bash
+pip install -r requirements.txt
+cp .env.example .env
+python main.py
+```
